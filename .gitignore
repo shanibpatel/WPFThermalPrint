@@ -190,3 +190,6 @@ git_stats/*
 StyleCop.Cache
 bin
 obj
+*.vsidx
+*.v2
+.vs/WPFThermalPrint/copilot-chat/b25c85b6/sessions/431735cd-a080-4979-850a-469716b008b2

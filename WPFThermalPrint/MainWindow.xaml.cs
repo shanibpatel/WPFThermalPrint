@@ -2,7 +2,6 @@
 using System.Drawing.Printing;
 using System.IO;
 using System.Windows;
-using System.Windows.Controls;
 
 namespace WPFThermalPrint
 {

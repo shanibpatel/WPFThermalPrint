@@ -18,8 +18,10 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>"સૌરાષ્ટ્ર ગાંઢીયા અને ભજીયા સેન્ટર"</Value>
-                  <Style />
+                  <Value>Saurashtra Gathiya &amp; Bhajiya</Value>
+                  <Style>
+                    <FontWeight>Bold</FontWeight>
+                  </Style>
                 </TextRun>
               </TextRuns>
               <Style />
@@ -27,9 +29,63 @@
           </Paragraphs>
           <rd:DefaultName>Textbox1</rd:DefaultName>
           <Top>0.31432cm</Top>
-          <Left>1.05516cm</Left>
-          <Height>1.04979cm</Height>
-          <Width>12.73938cm</Width>
+          <Left>4.91808cm</Left>
+          <Height>0.62646cm</Height>
+          <Width>5.33105cm</Width>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="Textbox2">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>Address: Shop No 9/10, Shree Arcade, Nr Dhaban Chowkdi,</Value>
+                  <Style>
+                    <FontWeight>Normal</FontWeight>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style />
+            </Paragraph>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>Nadiyad, Kheda-387002</Value>
+                  <Style>
+                    <FontWeight>Normal</FontWeight>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style />
+            </Paragraph>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>Phone No:- +91 9998883473</Value>
+                  <Style>
+                    <FontWeight>Normal</FontWeight>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style />
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox1</rd:DefaultName>
+          <Top>1.11717cm</Top>
+          <Left>0.58885cm</Left>
+          <Height>1.42283cm</Height>
+          <Width>14.77668cm</Width>
+          <ZIndex>1</ZIndex>
           <Style>
             <Border>
               <Style>None</Style>

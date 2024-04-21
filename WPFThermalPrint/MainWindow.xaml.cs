@@ -26,7 +26,7 @@ namespace WPFThermalPrint
             try
             {
                 streamToPrint = new StreamReader
-                   ("C:\\Test.txt");
+                   ("C:\\Reports\\Test.txt");
                 try
                 {
                     printFont = new Font("Arial", 10);
